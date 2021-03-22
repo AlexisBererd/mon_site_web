@@ -1,0 +1,9 @@
+{
+	"name": "formationdatafactory-AB",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "89215a75-ac8a-49c5-94a4-ea8dfd4ae850",
+		"tenantId": "544fe47f-5772-488f-81a9-fa9de607ecfa"
+	}
+}
